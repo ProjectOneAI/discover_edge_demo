@@ -1,0 +1,13 @@
+.bashrc
+.cache/
+.conda/
+.config/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+.local/
+.npm/
+data/
+discover-tb-logs/
+model/
